@@ -12,3 +12,6 @@ Agradecimientos a wcrp_trumpet.
 ---- VERSION 1.1 05-08-2020----
 - Mejorada interfaz de texto en pantalla.
 - Cambios en la asignación de teclas.
+
+---- VERSION 1.2 11-08-2020----
+- Añadido sistema de beber en el río. Ahora ya puedes beber cuando tengas sed.
