@@ -86,8 +86,10 @@ Citizen.CreateThread(function()
             SetEntityAsMissionEntity(rio)
             DeleteObject(rio)
             ClearPedTasksImmediately(PlayerPedId())
+            TriggerEvent("vorpmetabolism:changeValue", "Thirst", 150)
             rio = 0
             end
+
      end
     end
 end)
